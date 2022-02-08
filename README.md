@@ -40,7 +40,9 @@ The source code can be found on
 [PyPi](https://pypi.org/project/beancountswedbank/).
 
 Pull requests through github are no longer supported, but patches and code
-discussions via email are most welcome!
+discussions via email are most welcome! If you don't quite know how to do
+that, have a look at the [blog article that gives detailed instructions how to
+work without github](https://spacepanda.se/contributing.html).
 
 
 ## License
